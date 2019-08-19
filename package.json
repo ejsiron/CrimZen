@@ -1,0 +1,21 @@
+{
+    "name": "crimzen",
+    "displayName": "CrimZen",
+    "description": "Light color theme with minimized blues to reduce harshness",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CrimZen Theme",
+                "uiTheme": "vs",
+                "path": "./themes/CrimZen Theme-color-theme.json"
+            }
+        ]
+    }
+}
