@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "CrimZen Theme",
+                "label": "CrimZen",
                 "uiTheme": "vs",
-                "path": "./themes/CrimZen Theme-color-theme.json"
+                "path": "./themes/CrimZen-color-theme.json"
             }
         ]
     }
