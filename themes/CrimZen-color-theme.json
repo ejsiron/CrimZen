@@ -68,12 +68,12 @@
 		"editorCodeLens.foreground": "#413939",
 		"editorCursor.background": "#EAE7DC",
 		"editorCursor.foreground": "#150000",
-		"editorError.border": "#ff0000", // default on this is OK
-		"editorError.foreground": "#ff0000", // default on this is OK
+		"editorError.border": "#370000", // default on this is OK
+		"editorError.foreground": "#270000", // default on this is OK
 		"editorGroup.border": "#d45020",
 		"editorGroup.dropBackground": "#fe602020",
 		"editorGroup.emptyBackground": "#600000",
-		"editorGroup.focusedEmptyBorder": "#ff0000", // revisit this
+		"editorGroup.focusedEmptyBorder": "#370000", // revisit this
 		"editorGroupHeader.noTabsBackground": "#AA3731", // revisit this
 		"editorGroupHeader.tabsBackground": "#600000", // revisit this
 		"editorGroupHeader.tabsBorder": "#ff0000", // revisit this
@@ -83,14 +83,16 @@
 		"editorGutter.deletedBackground": "#a76767",
 		"editorGutter.modifiedBackground": "#67a767",
 		"editorHint.border": "#0000FF", // find this
-		"editorHint.foreground": "#ff0000", // find this
+		"editorHint.foreground": "#370000", // find this
 		"editorHoverWidget.background": "#F5E2D0",
 		"editorHoverWidget.border": "#270000",
-		"editorHoverWidget.statusBarBackground": "#C9F6A0", // find this
+		"editorHoverWidget.statusBarBackground": "#FAF9F4", // find this
 		"editorIndentGuide.activeBackground": "#A73214",
 		"editorIndentGuide.background": "#D7B6B0",
 		"editorInfo.border": "#370000",
-		"editorInfo.foreground": "#ff0000"
+		"editorInfo.foreground": "#270000",
+		"editorLineNumber.activeForeground": "#ff0000",
+		"editorLineNumber.foreground": "#ff0000"
 	},
 	"tokenColors": [
 		{
