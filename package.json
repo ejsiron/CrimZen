@@ -13,7 +13,7 @@
         "themes": [
             {
                 "label": "CrimZen",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/CrimZen-color-theme.json"
             }
         ]
