@@ -1,13 +1,24 @@
 {
     "name": "crimzen",
     "displayName": "CrimZen",
-    "description": "Light color theme with minimized blues to reduce harshness",
-    "version": "0.0.1",
+    "description": "Color theme that mixes a light theme for the coding area with a dark theme for all other regions. Prioritizes legibility and reduced color harshness.",
+    "version": "1.0.0",
+    "publisher": "EricSiron",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.37.0"
     },
+    "galleryBanner": {
+        "color": "#873636",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Light Theme",
+        "CrimZen"
     ],
     "contributes": {
         "themes": [
@@ -17,5 +28,9 @@
                 "path": "./themes/CrimZen-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ejsiron/CrimZen"
     }
 }
