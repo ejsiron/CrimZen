@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "crimzen" extension will be documented in this file.
+Change log for the CrimZen color theme.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## 1.0.0 - September 3rd, 2019
 
 - Initial release
