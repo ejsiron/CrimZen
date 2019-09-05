@@ -4,7 +4,13 @@
     "description": "Color theme that mixes a light theme for the coding area with a dark theme for all other regions. Prioritizes legibility and reduced color harshness.",
     "version": "1.0.0",
     "publisher": "EricSiron",
-    "license": "MIT",
+    "author": {
+        "name": "Eric Siron"
+    },
+    "bugs": {
+        "url": "https://github.com/ejsiron/CrimZen/issues"
+    },
+    "license": "SEE LICENSE IN LICENSE",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -12,6 +18,7 @@
         "color": "#873636",
         "theme": "dark"
     },
+    "icon": "CrimZen.png",
     "categories": [
         "Themes"
     ],
