@@ -2,7 +2,7 @@
     "name": "crimzen",
     "displayName": "CrimZen",
     "description": "Color theme that mixes a light theme for the coding area with a dark theme for all other regions. Prioritizes legibility and reduced color harshness.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "EricSiron",
     "author": {
         "name": "Eric Siron"
@@ -31,7 +31,7 @@
         "themes": [
             {
                 "label": "CrimZen",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/CrimZen-color-theme.json"
             }
         ]
