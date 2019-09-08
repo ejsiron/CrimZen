@@ -10,11 +10,11 @@ A mixed color theme for Visual Studio Code. CrimZen uses a light design for the 
 
 ## Suggested Fonts
 
-This theme was built and tested using the [IBM Plex Mono](https://github.com/IBM/plex/releases) and [Deja Vu Sans Mono](https://dejavu-fonts.github.io/) fonts.
+This theme was built and tested using the [Hack](https://sourcefoundry.org/hack/), [IBM Plex Mono](https://github.com/IBM/plex/releases), and [Deja Vu Sans Mono](https://dejavu-fonts.github.io/) fonts.
 
 ## Problems
 
-Visual Studio Code controls the colors of a few elements, but grants access to dozens of others. I was not able to locate every single setting. In almost all of those cases, I allowed Visual Studio Code to set defaults. However, because I had to use the "vs-dark" base theme even though I have a light code editor, I expect some of those defaults might result in major legibility problems. If you find one, please report it on the theme's [issues page](https://github.com/ejsiron/CrimZen/issues). Ensure that you provide reproduction steps.
+Visual Studio Code controls the colors of a few elements, but grants access to dozens of others. I was not able to locate every single setting. In almost all of those cases, I allowed Visual Studio Code to set defaults. However, because I'm mixing light and dark theme design patterns, I expect some of those defaults might result in major legibility problems. If you find one, please report it on the theme's [issues page](https://github.com/ejsiron/CrimZen/issues). Ensure that you provide reproduction steps.
 
 ## Theme Creation
 
