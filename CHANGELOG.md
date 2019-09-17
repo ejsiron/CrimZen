@@ -2,6 +2,11 @@
 
 Change log for the CrimZen color theme.
 
+## 1.1.1 - September 16th, 2019
+
+- Modified the "editor widget" (ex: find/replace) to use a light theme to improve glyph visibility.
+- Modified other input boxes (ex: filter box on the "Problems" panel) to improve glyph visibility.
+
 ## 1.1.0 - September 7th, 2019
 
 - Modified colors in peek editor to improve legibility
