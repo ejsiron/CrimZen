@@ -2,6 +2,11 @@
 
 Change log for the CrimZen color theme.
 
+## 1.2.0 - October 23rd, 2020
+
+- Increase version support to something more current
+- Minor item cleanup -- precursor to fuller color corrections
+
 ## 1.1.1 - September 16th, 2019
 
 - Modified the "editor widget" (ex: find/replace) to use a light theme to improve glyph visibility.
