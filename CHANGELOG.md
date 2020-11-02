@@ -2,6 +2,13 @@
 
 Change log for the CrimZen color theme.
 
+## 2.0 - November 2nd, 2020
+
+- Updates to colors in widgets like the Find window so that all icons are visible.
+- Fixes for selected text colors.
+- Terminal now has a near-black background, should fix all outstanding color problems in that section.
+- Extensive readability updates to activity bar, especially list items.
+
 ## 1.2.0 - October 23rd, 2020
 
 - Increase version support to something more current

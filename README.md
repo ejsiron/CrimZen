@@ -14,7 +14,7 @@ This theme was built and tested using the [Hack](https://sourcefoundry.org/hack/
 
 ## Problems
 
-Visual Studio Code controls the colors of a few elements, but grants access to dozens of others. I was not able to locate every single setting. In almost all of those cases, I allowed Visual Studio Code to set defaults. However, because I'm mixing light and dark theme design patterns, I expect some of those defaults might result in major legibility problems. If you find one, please report it on the theme's [issues page](https://github.com/ejsiron/CrimZen/issues). Ensure that you provide reproduction steps.
+Updates have removed most of the major display problems. If you uncover any others, report on the[issues page](https://github.com/ejsiron/CrimZen/issues). Ensure that you provide reproduction steps.
 
 ## Theme Creation
 
