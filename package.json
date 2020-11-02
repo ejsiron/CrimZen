@@ -2,7 +2,7 @@
     "name": "crimzen",
     "displayName": "CrimZen",
     "description": "Color theme that mixes a light theme for the coding area with a dark theme for all other regions. Prioritizes legibility and reduced color harshness.",
-    "version": "1.2.0",
+    "version": "2.0",
     "publisher": "EricSiron",
     "author": {
         "name": "Eric Siron"
