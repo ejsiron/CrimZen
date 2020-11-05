@@ -2,6 +2,21 @@
 
 Change log for the CrimZen color theme.
 
+## 3.0.0 -  November 5th, 2020
+
+- Finally changed colors for code window
+
+## 2.0.2 - November 3rd, 2020 (unreleased)
+
+- Fixed some long-standing problems with text selection
+- Changed Find window again due to conflicts with hover widget
+- Made hover widget text visible
+- Changed background of terminal to near-black
+
+## 2.0.1 - November 2nd, 2020
+
+Minor patch to correct README screenshot URL.
+
 ## 2.0 - November 2nd, 2020
 
 - Updates to colors in widgets like the Find window so that all icons are visible.
