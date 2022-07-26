@@ -2,6 +2,12 @@
 
 Change log for the CrimZen color theme.
 
+## 3.1.0 July 26th, 2022
+
+- Fixes for hover widget and several dropdowns
+- Made the general font color as neutral as possible. Some components do not have color overrides so the default color needs to perform well on dark and light backgrounds.
+- Added support for Jupyter notebooks
+
 ## 3.0.0 -  November 5th, 2020
 
 - Finally changed colors for code window
