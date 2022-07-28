@@ -2,6 +2,13 @@
 
 Change log for the CrimZen color theme.
 
+## 3.2.0 July 27th, 2022
+
+- Modification to accommodate untracked and conflicting Git file names
+- Slight darkening of active tab background
+- Changelog update for Marketplace
+- Banner color correction on Marketplace (no change in extension)
+
 ## 3.1.0 July 26th, 2022
 
 - Fixes for hover widget and several dropdowns

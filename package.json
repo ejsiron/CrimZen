@@ -16,7 +16,7 @@
     },
     "galleryBanner": {
         "color": "#873636",
-        "theme": "light"
+        "theme": "dark"
     },
     "icon": "CrimZen.png",
     "categories": [
