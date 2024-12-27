@@ -2,6 +2,14 @@
 
 Change log for the CrimZen color theme.
 
+## 3.5.0 December 27th, 2024
+
+- Fix for WSL output (issue #8)
+- Fix for invisible items on default screen (issue #8)
+- Reduced color harshness on notifications and panels
+- Tuned most in-editor items against the background color (language keywords, function names, etc.) using Adobe's color wheel
+- Attempted to fix poor contrast of file widget in Copilot Edits, but VSCode does not allow. Refer to issue 237014: <https://github.com/microsoft/vscode/issues/237014>
+
 ## 3.2.0 July 27th, 2022
 
 - Modification to accommodate untracked and conflicting Git file names
