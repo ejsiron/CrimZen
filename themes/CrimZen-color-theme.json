@@ -1,6 +1,6 @@
 {
 	"name": "CrimZen",
-	"type": "dark",
+	"type": "light",
 	"colors": {
 		"activityBar.activeBackground": "#AD4138",
 		"activityBar.activeBorder": "#F5E2D0",
